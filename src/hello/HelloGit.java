@@ -6,6 +6,6 @@ public class HelloGit {
         System.out.println("hello_git");
         System.out.println("genxing");
         System.out.println("更新");
-        System.out.println("helloGitee");
+        System.out.println("hellogit2");
     }
 }
